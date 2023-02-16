@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0x31e1fd82b20cc56c2f41a56b2bcdcfda0470aaf9",
-  "SCAN_LINK": "https://ftmscan.com/token/0x31e1fd82b20cc56c2f41a56b2bcdcfda0470aaf9",
+  "CONTRACT_ADDRESS": "0x60174c6428879072b1BD797a4C6b1AAA87B790b2",
+  "SCAN_LINK": "https://evm.explorer.canto.io/address/0x60174c6428879072b1BD797a4C6b1AAA87B790b2",
   "NETWORK": {
-    "NAME": "Fantom Opera",
-    "SYMBOL": "FTM",
-    "ID": 250
+    "NAME": "Canto",
+    "SYMBOL": "CANTO",
+    "ID": 7700
   },
-  "NFT_NAME": "CryptoMan",
-  "SYMBOL": "CRMAN",
-  "MAX_SUPPLY": 3333,
+  "NFT_NAME": "Canto Llama",
+  "SYMBOL": "CLNFT",
+  "MAX_SUPPLY": 5000,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
