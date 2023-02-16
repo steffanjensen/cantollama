@@ -114,7 +114,7 @@ function App() {
   const data = useSelector((state) => state.data);
   const [claimingNft, setClaimingNft] = useState(false);
   const [NFTS, setNFTs] = useState([]);
-  const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
+  const [feedback, setFeedback] = useState(`Click mint to get your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
     CONTRACT_ADDRESS: "",
@@ -163,11 +163,11 @@ function get_all_nfts(){
        /* let image_url = "https://ipfs.io/ipfs/" + myJson.image;
         let image_result = image_url.replace("ipfs://", ""); */
      /*   document.getElementById("output").innerHTML += myJson.name + "<br />"; */
-        let image_url = "/config/cryptoman/" + myJson.image;
-        let image_result = image_url.replace("ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7", "");
+        let image_url = "https://ipfs.io/ipfs/" + myJson.image;
+        let image_result = image_url.replace("ipfs://", "");
         var new_nft = document.getElementById("image");
         new_nft.appendChild(document.createElement('img')).src = image_result;
-        sleep(200);
+        sleep(300);
       });
     
   });
@@ -486,7 +486,7 @@ function get_all_nfts(){
                           getData();
                         }}
                       >
-                        {claimingNft ? "BUSY" : "BUY"}
+                        {claimingNft ? "BUSY" : "MINT"}
                       </mintButton>
                     </s.Container>
                   </>
