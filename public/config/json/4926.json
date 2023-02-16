@@ -1,0 +1,43 @@
+{
+  "name": "FantomLlamas #4926",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/4926.png",
+  "dna": "61f248567c436ea8adab69b4ed47c4116f457817",
+  "edition": 4926,
+  "date": 1642392999373,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "night"
+    },
+    {
+      "trait_type": "grass",
+      "value": "darkgreen"
+    },
+    {
+      "trait_type": "fur",
+      "value": "orange"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "blue"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "marks",
+      "value": "dots"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "caps",
+      "value": "none"
+    }
+  ],
+  "compiler": "cryptomanftm.com"
+}

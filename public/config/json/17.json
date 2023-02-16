@@ -1,31 +1,43 @@
 {
-  "name": "CryptoMan #17",
-  "description": "3.333 Generated CryptoMan",
-  "image": "ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7/17.png",
-  "dna": "a78cecef42eb190387b263bdfe7bf9983063206c",
+  "name": "FantomLlamas #17",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/17.png",
+  "dna": "c680a9db5d699fe79c0bd9f910ccb3b6cfcc0738",
   "edition": 17,
-  "date": 1641610221388,
+  "date": 1642392214736,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "night"
+      "value": "day"
     },
     {
-      "trait_type": "color",
-      "value": "black"
+      "trait_type": "grass",
+      "value": "green"
     },
     {
-      "trait_type": "hair",
-      "value": "blue"
-    },
-    {
-      "trait_type": "eyes",
+      "trait_type": "fur",
       "value": "brown"
     },
     {
+      "trait_type": "eyes",
+      "value": "green"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    },
+    {
+      "trait_type": "marks",
+      "value": "none"
+    },
+    {
       "trait_type": "glasses",
-      "value": "Green"
+      "value": "orange"
+    },
+    {
+      "trait_type": "caps",
+      "value": "greenbeanie"
     }
   ],
-  "compiler": "CryptoMan"
+  "compiler": "cryptomanftm.com"
 }

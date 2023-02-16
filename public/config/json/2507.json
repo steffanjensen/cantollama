@@ -1,31 +1,43 @@
 {
-  "name": "CryptoMan #2507",
-  "description": "3.333 Generated CryptoMan",
-  "image": "ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7/2507.png",
-  "dna": "2c9304ee14d6370a83294e94b09c964ca25ff754",
+  "name": "FantomLlamas #2507",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/2507.png",
+  "dna": "38dc89f1c36ee32feeca413bd032ab0b9f1256af",
   "edition": 2507,
-  "date": 1641610644380,
+  "date": 1642392601875,
   "attributes": [
     {
       "trait_type": "background",
       "value": "pink"
     },
     {
-      "trait_type": "color",
-      "value": "brown"
+      "trait_type": "grass",
+      "value": "green"
     },
     {
-      "trait_type": "hair",
-      "value": "yellow"
+      "trait_type": "fur",
+      "value": "white"
     },
     {
       "trait_type": "eyes",
-      "value": "greenlight"
+      "value": "green"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "sad"
+    },
+    {
+      "trait_type": "marks",
+      "value": "dots"
     },
     {
       "trait_type": "glasses",
       "value": "none"
+    },
+    {
+      "trait_type": "caps",
+      "value": "red-cap"
     }
   ],
-  "compiler": "CryptoMan"
+  "compiler": "cryptomanftm.com"
 }

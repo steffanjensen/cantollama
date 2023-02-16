@@ -1,31 +1,43 @@
 {
-  "name": "CryptoMan #789",
-  "description": "3.333 Generated CryptoMan",
-  "image": "ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7/789.png",
-  "dna": "8e295d362657be411f10f105909de41f43dd7392",
+  "name": "FantomLlamas #789",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/789.png",
+  "dna": "2e256e8cd2c0c9f69f53ca07fc3af861b76c71cf",
   "edition": 789,
-  "date": 1641610352288,
+  "date": 1642392330994,
   "attributes": [
     {
       "trait_type": "background",
+      "value": "bluegreen"
+    },
+    {
+      "trait_type": "grass",
       "value": "green"
     },
     {
-      "trait_type": "color",
-      "value": "zombie"
-    },
-    {
-      "trait_type": "hair",
-      "value": "blue"
+      "trait_type": "fur",
+      "value": "brown"
     },
     {
       "trait_type": "eyes",
-      "value": "orange"
+      "value": "pink"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "normal"
+    },
+    {
+      "trait_type": "marks",
+      "value": "none"
     },
     {
       "trait_type": "glasses",
-      "value": "Green"
+      "value": "orange"
+    },
+    {
+      "trait_type": "caps",
+      "value": "greencap"
     }
   ],
-  "compiler": "CryptoMan"
+  "compiler": "cryptomanftm.com"
 }

@@ -1,31 +1,43 @@
 {
-  "name": "CryptoMan #2102",
-  "description": "3.333 Generated CryptoMan",
-  "image": "ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7/2102.png",
-  "dna": "6e8f1ce079a1715b7c741919c3c9f21c0d48eae4",
+  "name": "FantomLlamas #2102",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/2102.png",
+  "dna": "f6e38540c5695485547bc1b6ac24c61976372cc9",
   "edition": 2102,
-  "date": 1641610575536,
+  "date": 1642392536520,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "orange"
+      "value": "day"
     },
     {
-      "trait_type": "color",
+      "trait_type": "grass",
+      "value": "green"
+    },
+    {
+      "trait_type": "fur",
       "value": "brown"
     },
     {
-      "trait_type": "hair",
-      "value": "red"
+      "trait_type": "eyes",
+      "value": "pink"
     },
     {
-      "trait_type": "eyes",
-      "value": "eyespink"
+      "trait_type": "mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "marks",
+      "value": "none"
     },
     {
       "trait_type": "glasses",
       "value": "Green"
+    },
+    {
+      "trait_type": "caps",
+      "value": "redbeanie"
     }
   ],
-  "compiler": "CryptoMan"
+  "compiler": "cryptomanftm.com"
 }

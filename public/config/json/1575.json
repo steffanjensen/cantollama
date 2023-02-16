@@ -1,31 +1,43 @@
 {
-  "name": "CryptoMan #1575",
-  "description": "3.333 Generated CryptoMan",
-  "image": "ipfs://QmeCE2nHW6q3aZ3ybo7qAwpr5KWVqTyLmN7GpXurgDWPk7/1575.png",
-  "dna": "64794a798d442449305834a553ec4fa36c33e4b2",
+  "name": "FantomLlamas #1575",
+  "description": "A collection of 5.000 unique llamas",
+  "image": "ipfs://QmdGpXb4eXFgmJqUs8JbVTPfcK1M13ewKFPCpyQFN6ryB6/1575.png",
+  "dna": "c6cd9c89006e167be45ce632fa9de3d039b5ac5f",
   "edition": 1575,
-  "date": 1641610486018,
+  "date": 1642392453830,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "bluegreen"
     },
     {
-      "trait_type": "color",
-      "value": "man"
+      "trait_type": "grass",
+      "value": "green"
     },
     {
-      "trait_type": "hair",
-      "value": "greendark"
-    },
-    {
-      "trait_type": "eyes",
+      "trait_type": "fur",
       "value": "orange"
     },
     {
-      "trait_type": "glasses",
+      "trait_type": "eyes",
+      "value": "pink"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "marks",
       "value": "none"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "caps",
+      "value": "red-cap"
     }
   ],
-  "compiler": "CryptoMan"
+  "compiler": "cryptomanftm.com"
 }
